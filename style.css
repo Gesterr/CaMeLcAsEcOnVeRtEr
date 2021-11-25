@@ -40,7 +40,7 @@ header h1{
 }
 
 button{
-    border-radius: 3px;
+    border-radius: 100px;
     background-color: rgb(231, 231, 231);
-    text-decoration: none;
+    outline:none;
 }
